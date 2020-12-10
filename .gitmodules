@@ -1,0 +1,3 @@
+[submodule "PyWebReg"]
+	path = PyWebReg
+	url = https://github.com/ctian1/PyWebReg.git
